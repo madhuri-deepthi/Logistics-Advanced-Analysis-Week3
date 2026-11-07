@@ -1,0 +1,1001 @@
+Shipment_ID,Distance_KM,Shipment_Volume,Transportation_Cost,Traffic_Level,Weather_Condition,Vehicle_Type,Delivery_Status,Delivery_Time_Hours
+1,1176,149,6158,Medium,Stormy,Truck,On Time,31.85
+2,910,56,4278,High,Clear,Bike,On Time,26.28
+3,1344,10,3396,Medium,Clear,Truck,Delayed,30.0
+4,1180,99,1488,High,Stormy,Bike,Delayed,33.01
+5,1145,151,4616,High,Stormy,Truck,On Time,38.61
+6,1094,329,6946,High,Stormy,Van,On Time,33.34
+7,171,47,4679,Low,Stormy,Truck,On Time,7.13
+8,516,302,2182,Medium,Clear,Truck,On Time,12.84
+9,1288,391,6126,Medium,Clear,Truck,On Time,29.91
+10,380,148,7924,High,Rainy,Bike,On Time,16.16
+11,137,365,1433,Medium,Clear,Van,On Time,3.86
+12,1446,342,4098,Low,Stormy,Truck,Delayed,39.13
+13,1173,268,2480,Medium,Rainy,Bike,Delayed,32.36
+14,921,170,3556,Medium,Stormy,Van,On Time,25.92
+15,180,399,9484,High,Clear,Bike,On Time,8.76
+16,1382,187,1291,High,Rainy,Bike,On Time,37.66
+17,819,19,5890,Medium,Stormy,Van,On Time,25.87
+18,393,270,7135,Low,Rainy,Truck,On Time,13.9
+19,1487,416,2755,Medium,Rainy,Bike,On Time,40.33
+20,855,147,4110,Low,Clear,Bike,On Time,25.0
+21,435,181,2107,Low,Stormy,Truck,On Time,11.13
+22,1265,395,5679,High,Rainy,Truck,On Time,34.26
+23,1005,22,7073,Low,Rainy,Van,On Time,28.96
+24,326,177,1484,Medium,Stormy,Van,On Time,11.64
+25,1234,139,6276,High,Rainy,Van,Delayed,39.0
+26,509,93,4176,Medium,Rainy,Truck,On Time,16.61
+27,1387,330,3880,Low,Rainy,Bike,On Time,34.19
+28,71,328,9211,High,Stormy,Bike,On Time,10.02
+29,302,110,9282,Low,Stormy,Van,On Time,11.81
+30,797,338,1550,High,Stormy,Truck,On Time,32.21
+31,906,282,4133,High,Stormy,Bike,On Time,31.04
+32,524,274,6842,High,Clear,Van,On Time,16.76
+33,1132,468,1459,Medium,Rainy,Bike,Delayed,30.97
+34,560,408,6559,Medium,Stormy,Bike,On Time,20.06
+35,749,417,9384,Low,Rainy,Truck,On Time,20.33
+36,1025,47,6155,High,Rainy,Truck,On Time,29.08
+37,239,428,4973,High,Clear,Bike,On Time,11.16
+38,1007,103,3446,Medium,Stormy,Van,On Time,29.1
+39,736,104,8225,Low,Stormy,Truck,On Time,18.75
+40,1007,314,1026,Low,Rainy,Bike,On Time,26.34
+41,612,78,3724,Low,Stormy,Truck,On Time,17.13
+42,1317,327,2375,Medium,Rainy,Truck,On Time,33.94
+43,881,453,2263,Medium,Rainy,Truck,On Time,26.43
+44,1204,245,9212,High,Clear,Bike,On Time,29.76
+45,696,443,6297,Medium,Clear,Van,On Time,19.68
+46,70,343,9708,Low,Clear,Van,Delayed,1.96
+47,890,382,7599,Medium,Rainy,Van,On Time,22.84
+48,216,385,5609,Medium,Stormy,Truck,On Time,16.85
+49,1347,468,7144,Medium,Clear,Bike,On Time,32.93
+50,437,146,616,Medium,Stormy,Truck,On Time,16.57
+51,650,427,2933,High,Clear,Van,On Time,18.88
+52,365,85,5963,High,Clear,Van,Delayed,15.87
+53,63,492,1083,Low,Rainy,Bike,On Time,3.18
+54,291,44,9086,Low,Clear,Truck,On Time,8.98
+55,826,10,4288,Medium,Clear,Van,On Time,21.35
+56,1419,305,4667,Low,Rainy,Bike,On Time,36.77
+57,614,329,8965,Medium,Stormy,Truck,On Time,19.56
+58,947,415,1889,Low,Clear,Truck,On Time,20.24
+59,1413,69,8857,Medium,Rainy,Van,On Time,35.84
+60,141,329,6654,Low,Clear,Van,On Time,3.74
+61,1440,358,5920,Medium,Rainy,Truck,On Time,36.29
+62,1005,337,9420,High,Stormy,Truck,On Time,38.6
+63,558,276,2543,Low,Stormy,Van,On Time,22.53
+64,825,370,4697,Low,Rainy,Truck,On Time,21.93
+65,84,238,3996,Medium,Rainy,Van,On Time,7.7
+66,255,279,1278,High,Rainy,Truck,On Time,13.19
+67,1154,325,713,Low,Stormy,Van,On Time,29.54
+68,1461,295,4262,Medium,Clear,Bike,On Time,35.1
+69,1075,300,7231,Low,Stormy,Van,On Time,31.43
+70,1071,222,3617,High,Rainy,Van,On Time,34.41
+71,1463,174,6291,Medium,Rainy,Bike,On Time,39.5
+72,615,14,9283,High,Stormy,Truck,Delayed,21.65
+73,1179,348,3220,High,Rainy,Bike,On Time,33.62
+74,752,388,9405,Low,Stormy,Van,On Time,19.77
+75,451,87,9627,High,Rainy,Truck,On Time,20.36
+76,779,419,6547,Low,Clear,Bike,On Time,17.49
+77,211,71,8532,High,Clear,Truck,On Time,10.59
+78,251,141,501,Medium,Rainy,Truck,On Time,11.54
+79,1045,98,6868,High,Stormy,Bike,Delayed,39.75
+80,319,246,2449,Low,Clear,Truck,On Time,8.63
+81,865,51,7232,Low,Stormy,Bike,On Time,24.75
+82,1344,98,8333,Medium,Rainy,Van,On Time,32.38
+83,505,411,1417,Medium,Stormy,Truck,On Time,22.14
+84,1325,305,3674,Low,Clear,Van,On Time,30.08
+85,1066,337,7514,Medium,Stormy,Van,Delayed,35.0
+86,345,304,589,Low,Stormy,Truck,On Time,15.88
+87,769,113,2209,Medium,Rainy,Bike,On Time,21.16
+88,387,23,3541,High,Rainy,Truck,Delayed,13.82
+89,928,297,605,Medium,Rainy,Van,On Time,26.17
+90,1126,188,9578,Low,Clear,Van,On Time,24.79
+91,841,134,9119,Medium,Clear,Bike,On Time,21.77
+92,266,431,2395,Low,Rainy,Truck,On Time,11.01
+93,813,362,6590,High,Rainy,Van,On Time,22.76
+94,237,32,9008,Low,Clear,Van,On Time,6.8
+95,429,72,6582,Medium,Clear,Van,Delayed,14.05
+96,542,152,1134,High,Clear,Bike,On Time,19.66
+97,1114,490,2425,High,Clear,Van,On Time,28.03
+98,1230,162,2556,Medium,Rainy,Van,On Time,33.17
+99,64,154,7417,High,Clear,Truck,On Time,9.83
+100,114,234,3644,High,Rainy,Truck,On Time,11.22
+101,570,459,1052,Medium,Stormy,Van,On Time,20.44
+102,1417,471,9407,Medium,Stormy,Van,On Time,41.77
+103,1202,318,5883,Medium,Clear,Truck,Delayed,28.32
+104,697,113,4411,Medium,Stormy,Bike,Delayed,20.43
+105,1136,113,3889,Medium,Stormy,Bike,Delayed,32.84
+106,1212,444,9799,Medium,Stormy,Bike,On Time,36.0
+107,642,48,8942,Low,Clear,Bike,On Time,17.34
+108,441,444,2930,Low,Clear,Bike,On Time,11.86
+109,468,207,958,Low,Stormy,Bike,On Time,18.07
+110,338,143,707,Low,Rainy,Bike,On Time,12.6
+111,428,76,1399,Low,Stormy,Bike,On Time,14.83
+112,280,400,521,Medium,Clear,Truck,On Time,8.93
+113,1067,188,9101,Low,Clear,Bike,On Time,27.29
+114,90,465,1394,High,Clear,Bike,On Time,5.58
+115,1101,51,1014,Low,Stormy,Bike,Delayed,31.32
+116,184,457,7794,Low,Rainy,Van,On Time,5.66
+117,250,24,5404,Medium,Clear,Truck,On Time,10.76
+118,829,120,8367,Medium,Clear,Truck,On Time,21.39
+119,979,166,4609,Low,Stormy,Truck,On Time,27.77
+120,1106,298,7679,High,Rainy,Bike,Delayed,36.04
+121,1121,487,2060,High,Stormy,Bike,On Time,33.76
+122,552,240,1766,Medium,Clear,Van,On Time,15.7
+123,456,420,4138,Medium,Rainy,Truck,On Time,14.77
+124,854,429,9441,High,Rainy,Bike,Delayed,28.04
+125,148,166,3927,Medium,Clear,Truck,On Time,10.15
+126,733,47,5280,Medium,Rainy,Van,Delayed,20.08
+127,775,450,2427,High,Rainy,Van,On Time,22.83
+128,1010,106,2856,Low,Stormy,Van,On Time,26.83
+129,662,494,5290,Medium,Clear,Truck,On Time,17.25
+130,692,420,806,Low,Clear,Bike,Delayed,16.51
+131,1078,448,8479,High,Clear,Bike,On Time,30.18
+132,1291,298,4165,Medium,Clear,Van,On Time,35.29
+133,552,263,7557,Medium,Clear,Bike,On Time,18.52
+134,816,205,1161,Low,Rainy,Van,On Time,23.74
+135,447,95,5144,Low,Stormy,Truck,On Time,20.96
+136,920,331,9003,Medium,Clear,Van,Delayed,25.09
+137,844,19,3420,Medium,Stormy,Truck,On Time,28.97
+138,442,14,9774,Medium,Stormy,Van,On Time,19.43
+139,256,132,9446,Low,Rainy,Bike,On Time,9.97
+140,1088,339,6736,High,Clear,Bike,On Time,30.97
+141,941,362,6578,Low,Rainy,Van,On Time,23.12
+142,913,127,852,High,Clear,Bike,On Time,23.8
+143,792,303,9594,Low,Rainy,Bike,On Time,20.34
+144,1314,406,7505,Medium,Stormy,Bike,On Time,38.33
+145,613,168,658,Low,Clear,Truck,On Time,14.77
+146,1070,312,1456,High,Stormy,Bike,On Time,32.65
+147,145,237,2571,Medium,Stormy,Truck,On Time,10.89
+148,534,374,9095,Low,Rainy,Van,Delayed,14.43
+149,1480,225,3953,Medium,Clear,Bike,Delayed,35.76
+150,280,445,7175,Low,Stormy,Bike,Delayed,13.2
+151,798,193,1455,Low,Rainy,Bike,Delayed,22.15
+152,1244,24,6795,High,Clear,Van,On Time,32.64
+153,590,166,2212,Medium,Clear,Truck,Delayed,18.07
+154,1109,145,5203,High,Stormy,Truck,On Time,37.91
+155,574,270,7063,Medium,Clear,Bike,On Time,16.4
+156,1233,166,9965,Medium,Stormy,Van,On Time,36.73
+157,1316,56,6131,Low,Clear,Van,On Time,32.21
+158,1159,333,1894,Low,Rainy,Van,Delayed,26.56
+159,627,341,9961,High,Stormy,Van,Delayed,27.04
+160,731,182,5232,High,Stormy,Van,On Time,25.66
+161,606,139,4214,Low,Clear,Truck,Delayed,13.08
+162,1062,420,1029,Low,Clear,Truck,On Time,24.99
+163,695,104,3458,Medium,Stormy,Truck,On Time,19.16
+164,845,124,8404,High,Clear,Bike,On Time,25.13
+165,1101,252,4091,Low,Rainy,Van,On Time,29.43
+166,1413,429,7395,Medium,Clear,Bike,Delayed,31.11
+167,1404,301,9631,High,Rainy,Van,Delayed,41.38
+168,1421,291,1025,Low,Rainy,Truck,Delayed,33.18
+169,1304,308,6977,Low,Rainy,Bike,On Time,32.39
+170,239,292,501,Medium,Rainy,Truck,Delayed,9.2
+171,1298,78,874,High,Rainy,Van,On Time,37.99
+172,1458,157,5148,Low,Clear,Van,Delayed,35.45
+173,1450,20,2865,Medium,Rainy,Van,On Time,38.52
+174,1356,263,2025,Medium,Clear,Truck,On Time,33.13
+175,682,339,2146,Medium,Rainy,Van,On Time,19.2
+176,677,369,513,Medium,Stormy,Truck,On Time,22.91
+177,1022,47,5099,Medium,Rainy,Bike,On Time,29.02
+178,1332,143,2778,Medium,Stormy,Van,On Time,38.98
+179,1432,209,3655,Medium,Rainy,Van,On Time,37.92
+180,759,32,8821,Medium,Rainy,Van,On Time,19.3
+181,1484,312,4314,Medium,Rainy,Bike,On Time,37.93
+182,698,355,3716,High,Stormy,Van,On Time,25.24
+183,367,311,8719,Low,Stormy,Truck,On Time,15.49
+184,1298,372,2613,High,Rainy,Truck,On Time,35.31
+185,1307,405,9944,High,Clear,Van,On Time,35.95
+186,733,227,4856,Low,Rainy,Van,Delayed,18.72
+187,713,150,6043,Medium,Stormy,Bike,Delayed,20.09
+188,1447,113,5055,Medium,Rainy,Bike,On Time,39.02
+189,1306,455,7562,Low,Stormy,Bike,Delayed,34.97
+190,1186,219,3874,Medium,Stormy,Van,Delayed,36.91
+191,491,482,6930,Low,Stormy,Bike,Delayed,13.58
+192,613,490,3966,Low,Rainy,Bike,On Time,16.04
+193,1341,120,3581,High,Stormy,Truck,On Time,40.37
+194,1459,113,1129,Low,Stormy,Bike,On Time,38.96
+195,1460,325,769,High,Rainy,Truck,On Time,37.79
+196,1186,180,6224,Medium,Stormy,Truck,On Time,35.44
+197,1001,469,6397,High,Rainy,Bike,On Time,34.07
+198,1154,365,3932,Medium,Stormy,Truck,Delayed,34.59
+199,748,333,9972,Low,Clear,Van,Delayed,17.81
+200,162,142,6776,Medium,Clear,Van,On Time,3.85
+201,51,385,6395,Low,Stormy,Bike,On Time,5.58
+202,691,302,7615,Medium,Clear,Van,On Time,18.24
+203,269,337,7156,High,Rainy,Truck,Delayed,12.92
+204,904,136,1075,Low,Clear,Van,On Time,23.14
+205,1298,115,7529,Medium,Stormy,Bike,On Time,37.91
+206,434,101,6599,Medium,Stormy,Bike,On Time,23.03
+207,1476,296,9999,High,Rainy,Truck,On Time,38.84
+208,1203,387,3692,Medium,Stormy,Bike,On Time,34.8
+209,1126,402,3678,Low,Rainy,Van,On Time,25.26
+210,779,60,6552,Medium,Clear,Bike,Delayed,15.87
+211,1489,38,3234,Low,Clear,Truck,Delayed,35.53
+212,296,471,6616,Medium,Rainy,Bike,Delayed,12.57
+213,885,305,4068,High,Rainy,Van,Delayed,25.96
+214,252,306,2703,Medium,Stormy,Truck,On Time,13.79
+215,1257,223,1890,High,Clear,Van,On Time,32.67
+216,172,276,2242,Low,Rainy,Truck,On Time,5.83
+217,450,416,2425,Medium,Clear,Bike,Delayed,12.36
+218,816,266,1119,High,Rainy,Truck,On Time,24.34
+219,343,311,1774,Low,Clear,Truck,On Time,7.19
+220,329,110,1456,High,Stormy,Bike,On Time,16.93
+221,933,414,2439,Low,Clear,Van,On Time,22.58
+222,247,355,4453,Medium,Clear,Bike,On Time,2.94
+223,1031,119,1468,High,Clear,Truck,On Time,28.46
+224,801,429,9735,Medium,Clear,Bike,On Time,18.62
+225,193,191,781,Low,Clear,Truck,On Time,3.19
+226,658,480,6762,Medium,Stormy,Bike,Delayed,21.57
+227,1274,322,1558,Medium,Rainy,Bike,On Time,33.28
+228,1197,10,4793,High,Clear,Van,On Time,32.17
+229,236,328,5678,Medium,Stormy,Truck,On Time,11.12
+230,1399,447,7480,Medium,Clear,Van,Delayed,35.53
+231,513,64,9700,Medium,Clear,Truck,On Time,12.59
+232,1422,380,1729,Medium,Rainy,Bike,Delayed,35.13
+233,709,433,9727,Medium,Clear,Truck,On Time,19.32
+234,813,408,5085,Medium,Stormy,Van,Delayed,26.71
+235,1004,158,8967,High,Stormy,Van,Delayed,32.09
+236,452,440,3240,Medium,Rainy,Van,On Time,9.17
+237,1419,466,2789,Medium,Clear,Truck,On Time,32.76
+238,196,318,1739,Low,Stormy,Van,On Time,10.68
+239,1221,146,5870,Low,Clear,Van,On Time,29.51
+240,913,211,625,Low,Clear,Van,On Time,21.13
+241,538,445,7973,Low,Clear,Bike,On Time,12.0
+242,978,322,9900,Medium,Rainy,Bike,On Time,31.32
+243,600,126,5842,Medium,Clear,Truck,On Time,15.59
+244,387,163,7851,Medium,Stormy,Truck,On Time,17.82
+245,921,434,7138,High,Clear,Van,On Time,23.8
+246,690,300,7070,High,Stormy,Bike,On Time,24.15
+247,522,72,3749,High,Clear,Van,On Time,18.89
+248,200,253,9610,Medium,Stormy,Van,On Time,14.53
+249,1488,34,8095,Medium,Stormy,Bike,On Time,40.29
+250,1371,99,6794,Medium,Clear,Bike,Delayed,29.77
+251,312,84,7027,Low,Clear,Bike,On Time,7.6
+252,193,303,6257,Medium,Stormy,Truck,On Time,12.67
+253,395,395,2469,High,Rainy,Truck,On Time,16.98
+254,673,400,1391,High,Clear,Van,Delayed,19.83
+255,1066,219,4970,Low,Rainy,Truck,Delayed,26.38
+256,930,484,7675,Medium,Clear,Bike,Delayed,22.17
+257,51,427,8820,High,Clear,Bike,On Time,4.91
+258,946,356,9706,Low,Clear,Truck,On Time,23.53
+259,1377,26,7312,Medium,Clear,Van,On Time,33.8
+260,303,137,8019,High,Rainy,Van,On Time,14.43
+261,502,436,5112,Medium,Clear,Truck,Delayed,13.14
+262,1110,452,1698,Low,Stormy,Van,On Time,30.31
+263,1233,373,5738,Medium,Stormy,Van,On Time,35.72
+264,1064,260,6589,High,Rainy,Van,On Time,35.1
+265,58,188,6757,Medium,Clear,Bike,Delayed,5.6
+266,1306,191,8205,Low,Stormy,Bike,On Time,33.69
+267,1172,161,4219,Medium,Rainy,Truck,On Time,29.73
+268,865,34,802,Medium,Clear,Bike,On Time,20.6
+269,257,464,1486,Medium,Stormy,Van,On Time,13.31
+270,1204,189,4940,High,Stormy,Bike,On Time,36.13
+271,453,207,5409,Low,Rainy,Truck,Delayed,14.02
+272,201,353,3572,High,Clear,Bike,On Time,5.18
+273,103,170,3624,Low,Clear,Van,On Time,4.36
+274,1193,186,8625,Medium,Stormy,Van,On Time,35.06
+275,677,294,3791,Low,Stormy,Truck,On Time,23.57
+276,636,72,4533,Medium,Stormy,Bike,Delayed,23.89
+277,1493,159,5605,Medium,Clear,Bike,Delayed,34.81
+278,1495,163,1203,Medium,Rainy,Bike,On Time,39.75
+279,153,165,8633,Low,Rainy,Van,Delayed,6.06
+280,303,379,1074,Medium,Clear,Truck,On Time,5.86
+281,1300,478,6204,Low,Rainy,Bike,On Time,32.21
+282,1185,58,8348,High,Stormy,Van,On Time,36.08
+283,559,464,5708,High,Rainy,Van,On Time,20.42
+284,148,346,7424,Medium,Rainy,Van,On Time,11.59
+285,202,93,4328,Medium,Rainy,Bike,On Time,9.94
+286,963,370,3730,Medium,Stormy,Bike,On Time,27.37
+287,927,186,988,Low,Clear,Bike,On Time,23.53
+288,387,157,7614,Medium,Stormy,Bike,On Time,17.33
+289,871,127,3673,High,Clear,Bike,On Time,23.09
+290,1236,351,2167,Medium,Clear,Bike,Delayed,27.25
+291,1006,485,4614,Low,Clear,Bike,On Time,21.4
+292,210,72,4053,High,Rainy,Bike,On Time,14.34
+293,850,198,8261,Medium,Rainy,Bike,Delayed,23.29
+294,447,369,1500,High,Clear,Van,On Time,16.1
+295,1350,58,9542,Medium,Clear,Bike,On Time,30.32
+296,865,336,1888,Medium,Rainy,Truck,On Time,25.95
+297,1465,266,5950,Low,Stormy,Van,On Time,34.53
+298,1208,233,4212,Low,Clear,Bike,On Time,26.53
+299,1268,150,1867,High,Stormy,Truck,On Time,40.01
+300,450,487,8689,Low,Rainy,Bike,Delayed,10.75
+301,689,224,9513,High,Clear,Truck,Delayed,22.54
+302,1106,444,954,Medium,Stormy,Truck,Delayed,30.84
+303,737,388,3272,Low,Stormy,Truck,On Time,19.93
+304,509,449,4226,Low,Stormy,Truck,On Time,19.88
+305,1004,220,7732,Low,Rainy,Van,On Time,25.62
+306,519,327,5306,High,Rainy,Van,On Time,20.57
+307,1448,41,2690,Medium,Stormy,Truck,Delayed,42.21
+308,1095,167,9608,Medium,Stormy,Bike,On Time,27.09
+309,799,294,3375,Medium,Rainy,Truck,On Time,24.03
+310,87,314,6092,Low,Stormy,Van,On Time,6.41
+311,279,438,1940,Medium,Stormy,Bike,Delayed,12.94
+312,1438,486,9427,Low,Rainy,Van,Delayed,35.83
+313,612,295,6559,High,Stormy,Van,On Time,23.87
+314,487,153,7510,Medium,Stormy,Bike,Delayed,20.01
+315,1356,433,7617,Medium,Stormy,Truck,On Time,38.05
+316,76,28,9653,Medium,Rainy,Truck,On Time,7.03
+317,275,27,3489,Medium,Stormy,Truck,Delayed,13.13
+318,1350,266,9718,High,Rainy,Truck,On Time,35.87
+319,847,87,6728,Medium,Rainy,Bike,Delayed,22.34
+320,333,380,6971,Low,Clear,Bike,On Time,8.19
+321,928,184,3363,Medium,Clear,Bike,On Time,27.3
+322,1009,203,1677,Low,Stormy,Van,Delayed,31.37
+323,502,485,5260,Low,Rainy,Bike,On Time,12.85
+324,1069,122,511,High,Clear,Truck,Delayed,29.88
+325,865,123,5752,High,Stormy,Van,Delayed,29.65
+326,708,231,4899,High,Clear,Truck,On Time,21.99
+327,596,175,8734,Medium,Clear,Truck,On Time,16.76
+328,1265,444,9635,Medium,Rainy,Bike,On Time,34.17
+329,1122,328,5945,Low,Rainy,Bike,On Time,22.13
+330,66,141,7070,Low,Clear,Truck,On Time,3.2
+331,1245,394,9696,High,Clear,Truck,On Time,32.87
+332,1293,273,8712,Medium,Rainy,Van,On Time,32.32
+333,207,422,906,High,Stormy,Bike,On Time,17.19
+334,526,64,9706,Medium,Rainy,Van,Delayed,19.62
+335,1119,368,4931,Low,Clear,Van,Delayed,27.24
+336,1446,140,5743,Medium,Stormy,Van,On Time,39.1
+337,567,297,7042,Medium,Clear,Truck,On Time,13.45
+338,148,275,7436,Low,Stormy,Van,Delayed,3.28
+339,1110,467,9406,High,Clear,Van,On Time,31.03
+340,329,476,4646,Medium,Stormy,Truck,On Time,16.47
+341,1422,375,640,Low,Stormy,Bike,Delayed,37.4
+342,546,171,5382,Medium,Clear,Bike,On Time,17.0
+343,351,389,6512,High,Stormy,Van,On Time,16.16
+344,230,490,1463,Low,Rainy,Truck,Delayed,7.77
+345,656,96,7651,High,Clear,Bike,Delayed,20.08
+346,1172,64,9064,Low,Rainy,Van,On Time,28.82
+347,749,485,4110,High,Clear,Van,On Time,24.98
+348,1042,297,7394,Medium,Stormy,Truck,On Time,30.95
+349,1189,187,7811,Medium,Stormy,Van,On Time,33.83
+350,240,400,605,Medium,Stormy,Bike,Delayed,11.46
+351,302,358,6039,High,Clear,Truck,On Time,15.37
+352,1030,17,7287,Medium,Rainy,Bike,Delayed,25.03
+353,977,330,2637,Medium,Rainy,Bike,On Time,25.61
+354,1234,322,4945,Low,Clear,Bike,On Time,31.81
+355,1329,256,4030,High,Clear,Van,On Time,36.47
+356,1396,332,1786,Medium,Rainy,Van,On Time,35.98
+357,177,481,7552,High,Rainy,Bike,On Time,11.98
+358,67,480,4154,Low,Rainy,Bike,On Time,2.6
+359,615,452,7602,Medium,Rainy,Truck,On Time,18.53
+360,619,264,2859,Medium,Clear,Truck,On Time,16.06
+361,1396,337,8605,Medium,Clear,Van,On Time,34.38
+362,735,63,9136,Medium,Stormy,Van,Delayed,21.32
+363,675,258,6941,Low,Rainy,Truck,On Time,18.8
+364,1361,248,5547,Medium,Stormy,Bike,On Time,40.28
+365,903,238,8727,Medium,Clear,Van,Delayed,22.66
+366,1011,76,5703,Low,Clear,Bike,Delayed,24.76
+367,204,60,2298,Medium,Stormy,Truck,On Time,13.15
+368,539,106,5791,Medium,Rainy,Van,On Time,15.76
+369,1459,101,5995,Low,Rainy,Van,Delayed,33.31
+370,834,273,6784,High,Rainy,Truck,Delayed,24.7
+371,1177,427,7785,High,Rainy,Van,Delayed,34.74
+372,1466,300,1800,Medium,Stormy,Truck,On Time,40.47
+373,295,105,7369,Low,Stormy,Van,On Time,15.11
+374,1249,97,9935,High,Clear,Truck,On Time,35.34
+375,1112,87,3597,Medium,Rainy,Van,On Time,31.29
+376,808,297,5116,Medium,Rainy,Bike,On Time,23.48
+377,587,129,509,Medium,Rainy,Bike,Delayed,16.12
+378,970,311,6252,Medium,Stormy,Bike,On Time,30.21
+379,457,409,6795,Medium,Rainy,Van,On Time,15.28
+380,574,461,5315,Medium,Stormy,Van,On Time,18.48
+381,877,174,1572,Medium,Rainy,Bike,On Time,26.91
+382,952,191,3725,High,Rainy,Bike,On Time,31.36
+383,85,478,1816,Medium,Clear,Truck,Delayed,2.6
+384,734,407,6199,Medium,Rainy,Truck,On Time,20.04
+385,69,232,7307,High,Rainy,Truck,On Time,8.43
+386,370,320,7174,Medium,Clear,Bike,Delayed,12.44
+387,561,441,4183,Medium,Stormy,Bike,On Time,21.46
+388,449,475,7727,Medium,Stormy,Bike,On Time,18.07
+389,703,16,3773,Medium,Rainy,Truck,Delayed,21.17
+390,1021,339,7500,High,Stormy,Van,On Time,31.11
+391,520,272,645,Medium,Rainy,Bike,On Time,17.32
+392,1216,170,5510,High,Clear,Van,Delayed,32.82
+393,1165,160,3540,Low,Clear,Van,On Time,25.53
+394,1427,94,982,Low,Rainy,Van,On Time,31.65
+395,883,156,3679,Medium,Clear,Truck,On Time,22.68
+396,776,121,1749,Low,Clear,Van,Delayed,18.96
+397,903,390,1130,Low,Rainy,Bike,On Time,19.66
+398,100,412,9353,Medium,Rainy,Truck,On Time,7.26
+399,624,45,3352,Low,Clear,Bike,On Time,15.11
+400,1263,294,1487,Low,Stormy,Bike,On Time,32.96
+401,1198,197,8122,High,Stormy,Truck,Delayed,38.38
+402,199,91,7827,Low,Rainy,Bike,On Time,7.16
+403,363,11,9341,Medium,Rainy,Bike,On Time,13.63
+404,619,394,9660,High,Stormy,Truck,On Time,25.82
+405,1415,312,1600,High,Clear,Bike,On Time,38.51
+406,354,206,7152,Low,Stormy,Van,On Time,15.9
+407,731,413,9132,High,Stormy,Bike,Delayed,27.92
+408,887,20,7921,Medium,Stormy,Van,On Time,26.76
+409,1127,243,5516,Medium,Stormy,Bike,Delayed,31.75
+410,1052,395,1269,Medium,Rainy,Truck,Delayed,26.25
+411,493,204,1843,High,Rainy,Truck,On Time,19.26
+412,662,480,4858,Medium,Clear,Bike,On Time,20.35
+413,1042,128,7280,Medium,Clear,Truck,Delayed,25.44
+414,313,405,7102,Medium,Clear,Bike,On Time,10.85
+415,1126,29,2849,High,Clear,Truck,Delayed,29.52
+416,1053,270,6199,High,Stormy,Van,On Time,34.79
+417,54,302,1741,Low,Rainy,Bike,On Time,6.72
+418,1176,431,1625,High,Rainy,Van,On Time,35.51
+419,1269,265,9882,Low,Clear,Van,On Time,26.06
+420,823,231,7264,Low,Clear,Bike,Delayed,20.43
+421,926,402,5601,Low,Stormy,Van,On Time,27.81
+422,1041,235,8343,Medium,Stormy,Bike,On Time,31.48
+423,933,62,572,Medium,Clear,Van,Delayed,25.07
+424,1423,437,5972,Low,Rainy,Bike,On Time,32.96
+425,96,364,5689,Low,Rainy,Bike,On Time,5.26
+426,916,351,2972,High,Rainy,Truck,Delayed,30.58
+427,872,373,1207,High,Clear,Bike,On Time,27.42
+428,985,289,2304,High,Rainy,Bike,On Time,30.98
+429,705,90,7204,High,Stormy,Van,On Time,24.9
+430,318,211,4213,Medium,Stormy,Bike,On Time,12.99
+431,419,167,5551,Low,Clear,Truck,On Time,10.54
+432,685,129,2975,Medium,Stormy,Van,On Time,23.58
+433,1179,68,4110,Medium,Clear,Van,On Time,29.0
+434,706,224,4755,Low,Rainy,Truck,On Time,17.08
+435,169,137,7897,Medium,Rainy,Van,On Time,9.63
+436,880,233,2235,Low,Rainy,Van,On Time,22.78
+437,1131,218,8758,Medium,Stormy,Van,On Time,33.71
+438,1419,379,8479,Medium,Clear,Van,Delayed,35.72
+439,790,124,2928,Medium,Rainy,Truck,On Time,22.01
+440,166,218,7926,Medium,Clear,Truck,On Time,5.71
+441,840,23,9033,Medium,Rainy,Van,On Time,25.88
+442,1200,18,5749,Low,Stormy,Van,On Time,31.15
+443,1466,49,5791,Low,Stormy,Truck,On Time,37.64
+444,1062,459,3317,High,Clear,Truck,On Time,32.07
+445,1131,246,9924,Medium,Stormy,Truck,On Time,32.04
+446,683,290,4374,Low,Stormy,Van,On Time,20.98
+447,562,368,4711,High,Clear,Van,Delayed,17.66
+448,851,210,1161,Low,Rainy,Bike,On Time,18.34
+449,1169,255,3874,Medium,Stormy,Truck,On Time,33.73
+450,1191,287,9708,Low,Clear,Van,Delayed,25.45
+451,609,244,707,Medium,Stormy,Truck,On Time,22.04
+452,537,13,3165,Medium,Stormy,Van,On Time,22.14
+453,1310,163,2993,Low,Stormy,Truck,On Time,30.68
+454,946,451,7313,High,Stormy,Van,On Time,31.21
+455,1345,38,1132,Medium,Clear,Bike,On Time,33.79
+456,1262,118,3583,Low,Clear,Bike,On Time,24.68
+457,753,107,4219,Low,Clear,Truck,On Time,20.41
+458,630,224,7623,Low,Stormy,Van,On Time,20.76
+459,839,302,2179,Low,Stormy,Van,On Time,26.81
+460,910,84,736,Medium,Stormy,Truck,Delayed,27.09
+461,296,335,7946,High,Clear,Van,On Time,11.69
+462,1149,155,4943,Medium,Stormy,Truck,On Time,33.21
+463,203,137,7270,Low,Rainy,Van,On Time,11.79
+464,1046,350,6599,Low,Stormy,Truck,On Time,31.88
+465,1159,51,9055,Low,Rainy,Van,Delayed,29.02
+466,746,365,2868,Medium,Stormy,Truck,On Time,25.09
+467,1358,50,785,High,Clear,Van,On Time,37.45
+468,1293,431,648,Low,Stormy,Bike,On Time,39.52
+469,1142,43,4537,Medium,Rainy,Van,On Time,31.14
+470,1120,26,7049,High,Rainy,Truck,On Time,32.98
+471,1058,174,7621,Medium,Stormy,Bike,On Time,30.83
+472,143,162,5395,High,Rainy,Van,On Time,11.65
+473,1007,495,5780,Medium,Rainy,Bike,On Time,26.2
+474,1061,387,1512,Medium,Clear,Van,On Time,27.57
+475,502,85,3285,Medium,Stormy,Bike,Delayed,16.29
+476,1277,96,4225,Medium,Stormy,Truck,On Time,35.86
+477,961,126,5076,Low,Stormy,Van,On Time,28.82
+478,267,371,6282,Medium,Rainy,Van,On Time,11.67
+479,523,351,6757,Low,Stormy,Truck,On Time,16.7
+480,481,478,2908,Medium,Stormy,Bike,On Time,18.22
+481,390,36,840,Low,Clear,Truck,Delayed,11.74
+482,600,322,3317,High,Clear,Truck,On Time,16.91
+483,1362,296,2996,Medium,Clear,Bike,Delayed,30.86
+484,1327,143,6462,Medium,Rainy,Truck,On Time,32.63
+485,406,228,5799,Low,Stormy,Van,On Time,15.0
+486,72,177,8074,High,Clear,Van,On Time,4.89
+487,571,107,2189,High,Clear,Van,On Time,20.59
+488,1173,277,3767,Medium,Clear,Truck,On Time,27.22
+489,851,246,4906,Low,Stormy,Van,Delayed,25.36
+490,1253,318,8953,Medium,Stormy,Van,Delayed,34.69
+491,1296,464,1942,Low,Stormy,Van,Delayed,34.67
+492,811,403,9097,Low,Rainy,Van,Delayed,17.82
+493,491,182,4937,High,Rainy,Van,On Time,20.91
+494,818,410,5935,Medium,Clear,Van,On Time,19.25
+495,1065,419,8935,Medium,Stormy,Truck,On Time,29.53
+496,1398,478,4607,High,Clear,Van,On Time,41.82
+497,565,485,1060,Medium,Stormy,Van,On Time,21.66
+498,1089,199,9285,Medium,Stormy,Bike,On Time,34.12
+499,841,131,6048,Medium,Stormy,Truck,On Time,27.61
+500,385,55,2326,High,Rainy,Truck,On Time,15.65
+501,307,73,8129,Low,Rainy,Truck,On Time,7.21
+502,546,139,8825,High,Stormy,Truck,On Time,22.54
+503,945,319,3638,High,Clear,Van,On Time,25.04
+504,209,372,8193,Low,Stormy,Van,On Time,8.81
+505,901,202,8764,Medium,Stormy,Bike,On Time,24.86
+506,739,316,8342,High,Clear,Bike,On Time,22.65
+507,429,190,7221,Medium,Stormy,Truck,On Time,20.68
+508,1006,301,7502,High,Clear,Bike,On Time,29.47
+509,740,380,4725,High,Rainy,Bike,On Time,24.23
+510,1341,291,3478,Medium,Rainy,Truck,On Time,34.72
+511,1490,38,7873,Medium,Clear,Truck,On Time,30.02
+512,1241,158,6407,High,Rainy,Bike,On Time,34.73
+513,1116,276,6597,Medium,Rainy,Van,On Time,26.95
+514,334,305,6156,Low,Clear,Bike,On Time,8.69
+515,446,20,9484,Low,Rainy,Bike,On Time,12.39
+516,61,173,4759,Medium,Stormy,Van,On Time,7.62
+517,1375,122,8786,High,Stormy,Van,Delayed,41.78
+518,1326,196,6401,High,Clear,Truck,On Time,35.67
+519,548,304,9825,Medium,Rainy,Truck,Delayed,20.22
+520,803,241,5417,Low,Stormy,Bike,On Time,25.22
+521,84,236,8929,Low,Stormy,Van,On Time,8.3
+522,776,319,3030,High,Rainy,Truck,On Time,23.35
+523,898,107,2460,Low,Rainy,Bike,On Time,20.81
+524,139,64,7545,Low,Stormy,Van,On Time,10.29
+525,825,120,1548,Low,Stormy,Bike,On Time,23.93
+526,654,161,6272,Medium,Clear,Truck,On Time,18.03
+527,1019,255,3029,High,Clear,Truck,On Time,30.6
+528,1071,415,3464,Low,Stormy,Van,On Time,26.77
+529,467,78,7637,Medium,Clear,Bike,On Time,16.17
+530,164,321,1463,Medium,Stormy,Van,On Time,13.58
+531,666,298,1036,High,Stormy,Truck,On Time,21.69
+532,1269,259,7840,Low,Clear,Truck,On Time,33.91
+533,875,45,7679,Medium,Clear,Bike,Delayed,23.09
+534,1148,248,8467,Medium,Rainy,Bike,Delayed,29.55
+535,462,157,9234,High,Rainy,Bike,On Time,19.3
+536,1449,476,1345,Medium,Rainy,Van,On Time,35.25
+537,1493,236,6277,Low,Stormy,Bike,Delayed,40.27
+538,778,253,3536,Medium,Clear,Bike,On Time,18.7
+539,1350,346,6447,High,Stormy,Truck,On Time,45.04
+540,1070,455,2994,Low,Clear,Truck,Delayed,24.9
+541,810,374,3219,High,Stormy,Bike,On Time,30.3
+542,725,491,2384,Low,Rainy,Bike,On Time,17.54
+543,1467,210,4849,Medium,Rainy,Truck,On Time,39.23
+544,506,163,5679,Medium,Rainy,Bike,On Time,16.22
+545,969,459,7110,Medium,Stormy,Van,Delayed,26.71
+546,241,82,6930,Medium,Clear,Van,On Time,7.88
+547,788,210,7654,High,Clear,Van,On Time,27.37
+548,1172,305,6988,Medium,Rainy,Bike,On Time,32.76
+549,1027,26,5237,Medium,Rainy,Truck,On Time,27.06
+550,1058,138,7025,High,Rainy,Bike,On Time,27.77
+551,145,226,4350,High,Rainy,Bike,On Time,9.56
+552,712,70,1189,Low,Clear,Truck,Delayed,14.01
+553,1263,436,5675,Medium,Stormy,Truck,On Time,32.38
+554,86,113,9148,High,Stormy,Truck,On Time,14.48
+555,1442,51,5578,Low,Stormy,Van,On Time,38.17
+556,328,34,5948,Medium,Stormy,Bike,On Time,18.88
+557,266,48,1679,High,Rainy,Truck,Delayed,11.92
+558,916,300,9574,Low,Rainy,Bike,On Time,23.35
+559,922,140,6906,Medium,Rainy,Van,Delayed,22.7
+560,1346,238,9091,Medium,Stormy,Van,On Time,36.72
+561,111,117,7407,Medium,Rainy,Truck,On Time,7.02
+562,645,181,9300,Low,Rainy,Truck,On Time,16.58
+563,778,444,2138,Low,Clear,Bike,On Time,18.4
+564,1415,487,6171,Medium,Clear,Truck,On Time,36.39
+565,446,111,7428,High,Rainy,Bike,Delayed,19.64
+566,748,363,1882,High,Clear,Truck,On Time,21.08
+567,1092,21,1903,Medium,Clear,Bike,Delayed,27.21
+568,226,284,9511,Low,Rainy,Bike,On Time,9.61
+569,445,110,3792,Medium,Rainy,Bike,On Time,16.96
+570,494,53,9511,Low,Rainy,Bike,On Time,12.66
+571,1306,452,919,High,Rainy,Van,On Time,38.44
+572,125,314,5017,High,Stormy,Bike,On Time,14.44
+573,314,454,3802,Medium,Stormy,Truck,On Time,12.85
+574,504,26,8357,High,Rainy,Van,On Time,20.8
+575,767,339,8370,Low,Clear,Van,Delayed,18.35
+576,784,66,6193,Medium,Rainy,Bike,On Time,18.94
+577,1457,320,1267,Medium,Rainy,Van,Delayed,36.79
+578,900,312,2544,High,Clear,Bike,Delayed,26.08
+579,1440,21,2049,Low,Stormy,Truck,On Time,36.79
+580,193,327,6640,Medium,Rainy,Bike,On Time,11.75
+581,934,89,4216,High,Rainy,Van,On Time,31.28
+582,1142,225,4981,Low,Stormy,Truck,On Time,30.61
+583,1172,348,8398,Medium,Stormy,Bike,On Time,33.06
+584,445,273,7048,High,Clear,Truck,Delayed,15.63
+585,1098,488,2793,Medium,Stormy,Truck,On Time,32.0
+586,997,158,5337,Low,Stormy,Van,On Time,26.97
+587,940,90,8258,Low,Stormy,Truck,On Time,19.47
+588,1224,224,7293,Low,Clear,Van,On Time,31.71
+589,1217,494,8138,High,Stormy,Truck,On Time,38.05
+590,618,383,8493,Medium,Stormy,Bike,On Time,21.38
+591,1112,473,6507,Low,Clear,Truck,On Time,26.36
+592,158,207,6042,Medium,Stormy,Bike,On Time,11.35
+593,1115,209,9592,Medium,Stormy,Bike,On Time,31.92
+594,1259,34,6856,Low,Clear,Truck,On Time,26.97
+595,984,475,8933,Medium,Rainy,Bike,On Time,23.19
+596,447,98,7880,Medium,Clear,Truck,On Time,10.22
+597,1296,277,2885,Medium,Stormy,Truck,On Time,34.57
+598,683,152,4768,Medium,Stormy,Bike,Delayed,24.48
+599,1206,68,1171,Low,Stormy,Bike,On Time,34.25
+600,1236,419,663,Medium,Clear,Van,Delayed,28.7
+601,1288,498,9156,Medium,Stormy,Bike,On Time,31.29
+602,782,374,5092,Medium,Stormy,Van,On Time,25.4
+603,284,35,5295,Medium,Clear,Bike,Delayed,8.47
+604,707,56,5298,Medium,Rainy,Truck,On Time,19.82
+605,800,297,6536,High,Rainy,Bike,Delayed,27.69
+606,637,275,2855,Medium,Stormy,Truck,On Time,22.43
+607,1082,25,6387,Medium,Clear,Truck,On Time,25.09
+608,1147,208,8461,High,Stormy,Truck,Delayed,34.08
+609,1003,410,6327,Medium,Clear,Van,On Time,24.76
+610,541,416,9237,Low,Clear,Bike,On Time,11.21
+611,962,291,5219,Low,Rainy,Truck,On Time,24.23
+612,1326,478,1093,Low,Rainy,Truck,Delayed,34.52
+613,1303,95,5339,High,Clear,Van,Delayed,32.2
+614,1247,259,7894,Medium,Stormy,Bike,On Time,35.89
+615,1241,400,3993,High,Rainy,Bike,Delayed,37.41
+616,219,279,6664,Medium,Stormy,Van,On Time,12.69
+617,1466,344,3172,Medium,Rainy,Van,On Time,39.02
+618,995,126,4700,Low,Rainy,Bike,On Time,24.54
+619,844,16,516,Medium,Stormy,Van,On Time,27.1
+620,683,146,3691,Medium,Rainy,Bike,On Time,21.06
+621,1267,380,892,High,Rainy,Bike,On Time,35.01
+622,78,185,9116,Low,Stormy,Truck,On Time,11.71
+623,1238,337,6772,Medium,Rainy,Truck,On Time,33.67
+624,1495,324,1071,Medium,Rainy,Bike,On Time,40.83
+625,388,224,4131,Medium,Rainy,Bike,On Time,15.76
+626,1438,486,6672,Medium,Stormy,Bike,On Time,40.61
+627,1415,91,9812,High,Clear,Bike,Delayed,40.22
+628,549,232,7677,Low,Stormy,Bike,Delayed,18.58
+629,560,487,8933,Medium,Clear,Bike,On Time,13.98
+630,1400,381,4397,Medium,Rainy,Van,Delayed,36.14
+631,266,432,8623,High,Clear,Bike,On Time,9.9
+632,1374,492,2779,High,Stormy,Van,On Time,37.33
+633,1205,411,9480,Medium,Stormy,Van,Delayed,33.07
+634,1143,452,7951,Low,Rainy,Bike,On Time,28.55
+635,1325,499,9406,High,Clear,Bike,Delayed,37.57
+636,1488,112,1275,Medium,Rainy,Van,On Time,36.36
+637,494,282,7369,High,Rainy,Van,Delayed,21.0
+638,925,23,2747,Low,Stormy,Bike,On Time,24.13
+639,1255,168,7588,Medium,Clear,Bike,On Time,29.05
+640,216,161,578,High,Clear,Van,On Time,13.7
+641,140,492,8580,High,Clear,Van,On Time,9.21
+642,763,117,7599,Medium,Clear,Van,On Time,19.61
+643,88,197,4426,Medium,Rainy,Truck,Delayed,7.43
+644,1199,310,9547,Medium,Rainy,Van,On Time,29.23
+645,222,107,7840,Low,Stormy,Truck,On Time,10.27
+646,702,140,7583,Medium,Rainy,Bike,On Time,20.61
+647,803,302,6730,Medium,Rainy,Bike,On Time,25.31
+648,1293,180,9723,High,Stormy,Van,Delayed,36.39
+649,1131,433,5440,Medium,Stormy,Bike,On Time,36.66
+650,525,483,3771,Low,Stormy,Bike,On Time,17.42
+651,505,192,3956,Low,Rainy,Bike,On Time,12.0
+652,878,480,8288,Medium,Rainy,Bike,On Time,21.93
+653,944,373,9099,Medium,Stormy,Truck,Delayed,29.52
+654,1434,48,8150,High,Stormy,Truck,On Time,40.17
+655,1074,24,3211,Medium,Stormy,Van,On Time,30.75
+656,436,385,2168,High,Rainy,Van,Delayed,17.19
+657,397,13,647,High,Rainy,Van,Delayed,19.11
+658,239,358,6920,Medium,Clear,Bike,On Time,10.35
+659,554,479,865,High,Rainy,Bike,On Time,19.03
+660,1264,418,5031,High,Rainy,Truck,On Time,35.66
+661,1442,406,5830,Medium,Rainy,Truck,On Time,33.85
+662,1482,219,6010,Low,Stormy,Van,Delayed,34.86
+663,873,170,9254,Medium,Rainy,Truck,On Time,21.94
+664,978,25,9464,Medium,Stormy,Truck,On Time,31.98
+665,983,435,6993,High,Clear,Truck,On Time,29.4
+666,1190,117,5939,Medium,Clear,Truck,On Time,30.21
+667,183,391,7011,High,Stormy,Truck,On Time,12.15
+668,107,459,8004,Medium,Stormy,Van,On Time,8.95
+669,734,320,1746,Low,Stormy,Van,On Time,20.6
+670,721,236,4339,High,Rainy,Truck,On Time,23.69
+671,222,179,9051,Medium,Clear,Van,On Time,7.48
+672,864,43,2876,Medium,Stormy,Bike,On Time,25.2
+673,1222,423,3509,Medium,Rainy,Truck,On Time,32.85
+674,129,260,9654,Low,Clear,Bike,On Time,4.32
+675,935,256,2327,Medium,Rainy,Van,On Time,24.32
+676,1286,278,7479,Medium,Clear,Van,On Time,32.19
+677,252,150,9069,Medium,Rainy,Bike,On Time,12.85
+678,813,283,4785,High,Clear,Van,On Time,26.92
+679,1302,425,7410,Medium,Clear,Truck,Delayed,32.91
+680,1300,105,9061,Low,Rainy,Bike,Delayed,32.81
+681,1475,236,2696,Medium,Stormy,Truck,On Time,40.3
+682,96,388,4247,High,Clear,Bike,On Time,10.19
+683,1306,48,9343,Low,Stormy,Van,Delayed,32.88
+684,1378,311,6478,Low,Rainy,Bike,On Time,35.45
+685,1216,38,6107,Low,Stormy,Bike,On Time,32.45
+686,1488,455,1269,Low,Stormy,Truck,On Time,42.05
+687,1446,486,1280,High,Stormy,Van,Delayed,44.31
+688,1332,327,6803,Medium,Stormy,Truck,On Time,37.46
+689,705,254,4483,Medium,Stormy,Van,On Time,23.19
+690,520,245,9214,Medium,Clear,Truck,On Time,15.61
+691,1020,194,1021,Medium,Clear,Bike,Delayed,26.62
+692,1085,281,9627,High,Clear,Truck,On Time,29.31
+693,1403,449,8069,High,Rainy,Van,On Time,39.36
+694,785,245,6284,Medium,Stormy,Van,On Time,27.24
+695,833,248,5083,High,Clear,Bike,On Time,21.78
+696,1017,386,6446,High,Rainy,Van,On Time,32.05
+697,407,275,5441,Medium,Clear,Truck,On Time,13.09
+698,1021,423,6767,Low,Clear,Bike,Delayed,26.06
+699,1481,418,7628,Medium,Stormy,Van,On Time,39.48
+700,717,368,2961,High,Rainy,Van,On Time,23.94
+701,422,349,1185,High,Stormy,Truck,On Time,20.79
+702,1081,398,2660,High,Stormy,Truck,On Time,36.5
+703,1195,74,7531,High,Clear,Bike,On Time,33.41
+704,1421,487,5841,Medium,Stormy,Van,On Time,37.1
+705,725,186,538,High,Rainy,Truck,On Time,24.69
+706,139,12,5375,High,Stormy,Bike,On Time,18.1
+707,747,438,1756,Medium,Stormy,Van,On Time,25.82
+708,1389,151,8197,Medium,Stormy,Van,Delayed,42.14
+709,1251,385,2696,High,Clear,Bike,Delayed,35.89
+710,589,167,7665,Low,Rainy,Bike,On Time,18.81
+711,781,333,801,High,Clear,Truck,On Time,23.98
+712,918,155,8027,Low,Clear,Van,On Time,22.44
+713,90,455,6881,Medium,Clear,Van,Delayed,5.51
+714,789,302,1146,High,Clear,Van,On Time,23.54
+715,551,162,9289,Low,Clear,Bike,Delayed,14.73
+716,1008,441,9353,Low,Rainy,Truck,On Time,24.36
+717,1218,202,4830,Medium,Stormy,Van,Delayed,38.84
+718,1274,446,7503,High,Clear,Bike,Delayed,32.46
+719,978,472,4037,Low,Clear,Van,Delayed,24.36
+720,510,82,5058,High,Rainy,Truck,On Time,22.09
+721,781,408,7079,Low,Rainy,Van,On Time,20.0
+722,801,314,8974,High,Stormy,Truck,On Time,26.57
+723,974,386,4582,High,Rainy,Truck,On Time,31.96
+724,958,353,4683,Medium,Stormy,Van,On Time,29.7
+725,1326,461,9152,Medium,Clear,Van,On Time,34.09
+726,439,149,4254,Medium,Clear,Truck,On Time,12.54
+727,932,196,2224,Medium,Stormy,Bike,On Time,32.17
+728,305,302,1876,Low,Rainy,Truck,On Time,5.54
+729,758,70,9206,Low,Stormy,Van,On Time,23.6
+730,499,494,9394,Low,Rainy,Van,Delayed,16.77
+731,59,436,2153,Medium,Clear,Bike,On Time,4.52
+732,873,389,2566,Low,Rainy,Truck,On Time,23.0
+733,847,207,522,Medium,Stormy,Truck,On Time,25.95
+734,1315,304,2960,High,Stormy,Truck,Delayed,40.26
+735,1324,449,6426,Medium,Clear,Van,On Time,29.08
+736,926,328,6751,Medium,Rainy,Truck,On Time,24.14
+737,1078,311,9996,Medium,Rainy,Bike,On Time,27.38
+738,1192,353,7795,High,Rainy,Van,On Time,35.83
+739,1065,20,3800,High,Clear,Van,On Time,28.52
+740,423,71,6779,High,Rainy,Truck,Delayed,16.32
+741,1138,342,9053,High,Stormy,Bike,Delayed,35.53
+742,195,235,7853,Low,Rainy,Van,On Time,5.84
+743,273,162,4227,High,Clear,Van,On Time,12.6
+744,1312,208,6772,High,Rainy,Truck,On Time,37.91
+745,226,61,6495,Low,Rainy,Truck,On Time,9.67
+746,902,269,9976,High,Stormy,Bike,On Time,32.35
+747,1355,68,1014,Low,Rainy,Truck,On Time,34.22
+748,112,81,948,Medium,Stormy,Bike,Delayed,9.83
+749,1290,157,6519,Low,Stormy,Van,Delayed,33.88
+750,876,358,5843,Medium,Clear,Bike,On Time,20.72
+751,844,72,8533,Medium,Stormy,Bike,On Time,24.98
+752,738,319,3020,Medium,Stormy,Bike,On Time,24.79
+753,154,382,3581,Medium,Clear,Van,On Time,4.98
+754,1172,252,1928,Medium,Stormy,Truck,On Time,36.98
+755,560,375,4467,High,Clear,Van,On Time,18.37
+756,434,339,6945,Low,Rainy,Truck,Delayed,15.65
+757,454,116,9614,Medium,Clear,Bike,On Time,14.23
+758,872,235,2659,High,Stormy,Bike,On Time,28.82
+759,567,322,5632,High,Clear,Bike,On Time,18.48
+760,525,227,3047,Medium,Stormy,Bike,On Time,16.32
+761,758,434,3479,High,Rainy,Bike,On Time,25.23
+762,820,250,3149,High,Clear,Truck,On Time,22.85
+763,1096,268,9005,High,Rainy,Truck,On Time,30.13
+764,1046,385,3583,Medium,Stormy,Bike,On Time,34.29
+765,726,271,1537,Low,Stormy,Van,On Time,24.19
+766,763,14,3989,Low,Rainy,Van,Delayed,21.96
+767,132,270,8104,Low,Clear,Bike,On Time,5.5
+768,1218,63,8044,Medium,Clear,Truck,On Time,27.6
+769,1158,56,3134,Low,Stormy,Van,On Time,30.93
+770,1151,224,4483,Medium,Rainy,Van,On Time,29.9
+771,506,186,2278,Medium,Rainy,Van,On Time,12.82
+772,50,18,8402,Low,Clear,Bike,Delayed,1.0
+773,100,108,5610,High,Clear,Van,Delayed,7.13
+774,734,29,5689,Medium,Clear,Van,On Time,19.56
+775,766,387,7878,Low,Rainy,Van,On Time,25.09
+776,498,250,1624,High,Clear,Van,On Time,17.02
+777,930,70,1197,Low,Clear,Truck,On Time,21.92
+778,537,388,2679,Medium,Stormy,Bike,Delayed,19.43
+779,83,499,5751,High,Clear,Bike,On Time,9.32
+780,1421,428,9735,Medium,Clear,Truck,On Time,32.43
+781,144,187,2429,High,Rainy,Truck,On Time,14.99
+782,1145,347,1513,Medium,Rainy,Bike,On Time,30.2
+783,203,71,726,Medium,Stormy,Van,Delayed,11.72
+784,299,154,7821,Low,Clear,Van,On Time,9.58
+785,723,225,2328,Low,Stormy,Bike,Delayed,20.28
+786,487,12,8409,High,Rainy,Van,On Time,20.26
+787,167,169,6088,Medium,Stormy,Truck,Delayed,14.52
+788,820,236,2523,Medium,Rainy,Van,On Time,22.74
+789,1379,495,5466,Medium,Stormy,Van,On Time,42.75
+790,317,278,6391,Medium,Stormy,Van,Delayed,16.33
+791,1127,129,1580,Low,Clear,Bike,On Time,27.36
+792,285,390,5536,Medium,Stormy,Truck,On Time,17.07
+793,438,98,3063,Medium,Clear,Van,On Time,15.99
+794,1039,338,3792,Low,Clear,Bike,On Time,24.61
+795,812,77,4086,Low,Clear,Van,On Time,20.64
+796,450,407,4931,Low,Clear,Truck,Delayed,13.79
+797,673,366,7341,Medium,Stormy,Van,On Time,20.63
+798,816,107,7143,High,Rainy,Truck,On Time,22.67
+799,1376,276,4459,Low,Rainy,Van,Delayed,33.46
+800,968,114,661,Low,Rainy,Truck,On Time,21.0
+801,1280,449,1093,Medium,Stormy,Van,Delayed,35.82
+802,1302,332,3890,Medium,Clear,Truck,Delayed,32.56
+803,902,132,6497,Medium,Rainy,Van,On Time,24.49
+804,627,485,6854,Medium,Stormy,Van,On Time,21.65
+805,124,38,1163,High,Clear,Bike,On Time,6.75
+806,484,146,9824,Medium,Rainy,Bike,On Time,17.33
+807,152,204,1041,High,Clear,Truck,Delayed,7.25
+808,1495,418,5933,High,Rainy,Van,On Time,37.02
+809,813,235,5593,Low,Rainy,Truck,On Time,20.65
+810,787,341,1367,Low,Rainy,Bike,On Time,22.32
+811,855,179,9123,Low,Clear,Truck,Delayed,20.16
+812,1379,18,5969,Medium,Stormy,Truck,On Time,36.31
+813,147,472,6756,High,Clear,Bike,On Time,9.47
+814,847,49,9898,Medium,Rainy,Van,On Time,24.7
+815,1408,34,1669,Low,Clear,Truck,Delayed,32.47
+816,908,270,1330,High,Stormy,Bike,On Time,30.65
+817,484,404,2151,Medium,Clear,Van,On Time,14.73
+818,496,452,1636,Low,Stormy,Bike,On Time,13.55
+819,1381,235,3310,Medium,Stormy,Truck,On Time,36.9
+820,298,481,9167,Medium,Clear,Van,On Time,7.01
+821,215,133,1519,High,Rainy,Van,Delayed,15.47
+822,1033,472,5737,Low,Stormy,Bike,On Time,30.38
+823,1408,47,1783,Low,Clear,Bike,On Time,32.66
+824,1069,337,1159,Medium,Stormy,Bike,On Time,28.85
+825,591,260,2510,Low,Rainy,Van,On Time,17.62
+826,808,398,9090,Medium,Clear,Van,Delayed,23.73
+827,1179,185,2233,Medium,Clear,Truck,On Time,30.34
+828,130,99,2625,Medium,Clear,Van,On Time,5.82
+829,182,411,2671,High,Rainy,Truck,On Time,13.31
+830,846,463,8766,Medium,Stormy,Bike,On Time,27.35
+831,949,46,3971,Low,Clear,Bike,On Time,23.94
+832,187,325,9528,Medium,Stormy,Van,On Time,13.96
+833,233,185,6124,High,Stormy,Bike,On Time,15.74
+834,1474,470,9191,Medium,Rainy,Bike,On Time,36.43
+835,1403,293,8829,Low,Clear,Van,On Time,31.38
+836,834,462,2597,High,Stormy,Truck,On Time,30.61
+837,1033,470,5568,Medium,Clear,Van,Delayed,25.28
+838,118,90,6897,Low,Clear,Truck,On Time,2.12
+839,595,123,3257,Low,Rainy,Van,Delayed,16.22
+840,102,49,4420,Low,Clear,Van,On Time,5.48
+841,254,310,8686,High,Clear,Bike,On Time,11.91
+842,175,233,2400,Low,Stormy,Van,On Time,9.34
+843,92,327,3110,Low,Rainy,Van,On Time,5.69
+844,160,358,7400,High,Clear,Truck,On Time,9.72
+845,810,124,1949,Medium,Stormy,Bike,Delayed,22.13
+846,1256,195,9238,Low,Rainy,Truck,On Time,32.3
+847,897,332,5517,Low,Rainy,Truck,On Time,23.75
+848,144,65,8499,Low,Stormy,Bike,On Time,9.23
+849,1447,49,6552,Low,Stormy,Bike,On Time,40.28
+850,949,363,2596,Medium,Stormy,Bike,On Time,31.51
+851,409,49,9395,Low,Stormy,Van,On Time,16.69
+852,949,356,6904,Low,Stormy,Bike,Delayed,25.39
+853,330,470,3831,High,Clear,Bike,Delayed,11.7
+854,1268,246,7962,Medium,Clear,Bike,On Time,33.41
+855,1268,298,5605,Medium,Rainy,Truck,On Time,29.42
+856,716,271,3478,Medium,Clear,Truck,Delayed,18.61
+857,142,225,3339,Medium,Clear,Van,Delayed,7.04
+858,721,156,3884,Medium,Clear,Truck,On Time,15.52
+859,110,345,1185,Medium,Stormy,Van,Delayed,10.91
+860,683,177,8031,Medium,Rainy,Truck,On Time,22.09
+861,1124,101,4783,High,Rainy,Bike,Delayed,30.01
+862,1476,362,8236,Low,Rainy,Truck,On Time,39.12
+863,1078,68,8210,High,Rainy,Van,On Time,29.94
+864,653,68,2119,Low,Clear,Truck,Delayed,16.66
+865,731,313,7368,High,Clear,Bike,On Time,22.08
+866,583,178,1931,Medium,Stormy,Van,On Time,21.09
+867,1478,278,9567,High,Rainy,Bike,On Time,38.28
+868,887,372,5213,Low,Clear,Bike,Delayed,23.23
+869,694,54,9935,Medium,Clear,Van,Delayed,19.07
+870,282,354,5498,Medium,Stormy,Bike,On Time,17.51
+871,573,190,662,Medium,Stormy,Bike,On Time,18.22
+872,395,179,2474,Medium,Stormy,Truck,Delayed,16.42
+873,1119,365,3791,Medium,Clear,Bike,On Time,28.29
+874,595,200,8961,Medium,Clear,Bike,On Time,16.34
+875,1151,164,1131,Medium,Stormy,Bike,On Time,34.91
+876,1146,431,1405,Medium,Rainy,Bike,On Time,30.08
+877,843,197,2514,Low,Stormy,Van,On Time,28.98
+878,298,16,8396,High,Stormy,Truck,On Time,17.7
+879,96,142,704,Medium,Stormy,Bike,On Time,4.37
+880,1194,244,1081,High,Stormy,Bike,Delayed,37.7
+881,263,54,6175,Low,Clear,Van,On Time,9.37
+882,288,323,9532,High,Rainy,Bike,On Time,12.55
+883,1129,258,5847,High,Stormy,Van,On Time,34.12
+884,399,40,3143,Medium,Rainy,Truck,On Time,12.19
+885,156,32,8517,Medium,Rainy,Truck,On Time,6.31
+886,880,435,2797,Medium,Rainy,Bike,Delayed,23.6
+887,97,403,1374,High,Stormy,Bike,On Time,14.97
+888,386,169,6060,Medium,Clear,Bike,Delayed,14.63
+889,1099,372,1189,Low,Stormy,Van,On Time,25.57
+890,853,446,4500,Medium,Rainy,Bike,On Time,23.2
+891,1330,167,1171,High,Rainy,Bike,On Time,38.16
+892,57,48,8427,High,Clear,Truck,Delayed,7.67
+893,674,424,1671,High,Stormy,Bike,Delayed,29.78
+894,1326,91,6091,Medium,Rainy,Truck,On Time,30.45
+895,768,365,9635,Low,Clear,Bike,On Time,12.89
+896,352,267,6842,Low,Rainy,Truck,On Time,14.95
+897,688,215,1949,Low,Clear,Bike,On Time,17.8
+898,105,86,3039,Low,Clear,Truck,On Time,2.19
+899,775,486,4459,Medium,Stormy,Van,Delayed,25.57
+900,575,21,6785,Low,Rainy,Truck,Delayed,16.26
+901,523,304,5932,Medium,Stormy,Truck,On Time,18.43
+902,77,459,4760,High,Rainy,Truck,Delayed,9.99
+903,127,233,2861,Medium,Stormy,Bike,On Time,11.53
+904,1289,22,6664,High,Rainy,Bike,On Time,40.68
+905,1459,55,4170,Medium,Stormy,Bike,On Time,42.35
+906,414,164,2253,Low,Clear,Van,On Time,13.68
+907,715,122,8600,Medium,Rainy,Van,Delayed,18.2
+908,575,242,2438,Low,Rainy,Truck,On Time,15.08
+909,748,26,9062,Medium,Clear,Van,On Time,20.11
+910,1385,369,6476,Medium,Stormy,Truck,On Time,34.94
+911,932,232,7088,Low,Rainy,Truck,On Time,26.07
+912,1080,363,9116,Low,Rainy,Truck,On Time,28.28
+913,1076,197,6804,Medium,Stormy,Van,On Time,31.18
+914,968,457,7845,High,Clear,Bike,On Time,27.14
+915,799,353,8375,High,Stormy,Van,Delayed,31.26
+916,412,374,9586,Medium,Stormy,Truck,Delayed,15.56
+917,1347,172,7133,Low,Stormy,Truck,On Time,38.52
+918,855,335,1097,High,Rainy,Van,Delayed,26.5
+919,788,476,3562,High,Clear,Truck,On Time,25.02
+920,1088,423,2836,Medium,Clear,Truck,On Time,27.35
+921,1265,464,1072,High,Stormy,Van,On Time,43.58
+922,534,83,8021,Medium,Rainy,Van,On Time,15.09
+923,77,242,6671,High,Stormy,Van,On Time,11.56
+924,763,233,7597,High,Rainy,Truck,Delayed,21.94
+925,1112,491,2590,Low,Rainy,Truck,On Time,25.52
+926,1346,328,7066,Medium,Rainy,Bike,On Time,36.34
+927,1304,421,5124,High,Rainy,Bike,On Time,40.18
+928,135,69,2133,Low,Clear,Van,Delayed,5.65
+929,175,344,2017,Medium,Rainy,Bike,On Time,8.88
+930,861,231,4148,High,Rainy,Truck,On Time,25.35
+931,586,46,2037,Medium,Stormy,Bike,On Time,22.82
+932,194,486,3637,Low,Stormy,Truck,On Time,8.41
+933,1285,287,7485,Medium,Clear,Van,On Time,28.86
+934,74,205,597,Low,Stormy,Van,Delayed,7.03
+935,1467,413,4250,Medium,Rainy,Truck,On Time,33.53
+936,116,361,9035,Low,Stormy,Bike,On Time,5.82
+937,282,493,8674,Medium,Clear,Van,On Time,13.04
+938,158,251,8603,Medium,Stormy,Van,Delayed,8.38
+939,1219,333,5913,Medium,Stormy,Bike,On Time,32.71
+940,160,228,5166,Medium,Clear,Bike,On Time,6.7
+941,277,201,1110,Medium,Clear,Truck,Delayed,9.4
+942,160,26,2227,Medium,Rainy,Bike,On Time,8.09
+943,83,21,2354,Low,Stormy,Bike,On Time,3.84
+944,672,415,5555,Medium,Rainy,Bike,On Time,21.63
+945,1442,410,2824,Low,Stormy,Truck,On Time,37.16
+946,797,403,9869,High,Stormy,Truck,On Time,31.15
+947,644,383,9783,Low,Rainy,Van,On Time,16.02
+948,474,202,6274,Medium,Stormy,Truck,On Time,20.5
+949,662,31,7019,Medium,Stormy,Van,On Time,25.3
+950,741,483,2249,Medium,Stormy,Bike,On Time,23.53
+951,1355,129,1281,Low,Clear,Van,On Time,32.87
+952,1393,219,8048,Medium,Rainy,Van,On Time,33.3
+953,364,315,7323,Medium,Clear,Bike,Delayed,11.62
+954,926,279,2605,Medium,Rainy,Van,On Time,28.02
+955,1450,201,4367,Medium,Rainy,Truck,Delayed,38.26
+956,1362,184,7693,Medium,Stormy,Truck,On Time,43.08
+957,711,294,5476,Medium,Rainy,Truck,On Time,21.95
+958,326,213,2613,Medium,Clear,Truck,On Time,9.51
+959,673,173,6379,Medium,Clear,Van,On Time,23.64
+960,565,260,4470,Medium,Clear,Van,On Time,18.82
+961,1423,236,9759,Low,Rainy,Bike,On Time,31.42
+962,892,445,7764,Low,Clear,Van,Delayed,19.25
+963,399,390,2077,Low,Rainy,Van,On Time,9.79
+964,872,469,9703,Low,Clear,Van,On Time,21.67
+965,1210,16,2774,Medium,Clear,Bike,On Time,31.03
+966,808,38,5369,Medium,Rainy,Truck,Delayed,24.08
+967,948,404,7244,Low,Clear,Van,On Time,18.81
+968,292,42,2926,High,Stormy,Bike,On Time,16.21
+969,592,143,6046,Low,Rainy,Bike,Delayed,15.86
+970,1113,376,7352,High,Rainy,Bike,On Time,29.09
+971,278,88,3051,Medium,Rainy,Truck,Delayed,9.43
+972,597,425,6911,Medium,Stormy,Van,On Time,23.98
+973,969,444,507,Low,Rainy,Bike,On Time,21.43
+974,1296,468,8587,Medium,Clear,Truck,Delayed,34.71
+975,55,67,3055,Medium,Clear,Bike,On Time,6.4
+976,1395,480,975,High,Clear,Bike,On Time,36.42
+977,517,35,5916,Medium,Rainy,Bike,Delayed,15.19
+978,124,491,9176,High,Clear,Bike,On Time,10.42
+979,53,439,7739,Low,Rainy,Bike,On Time,2.6
+980,695,235,7210,Medium,Clear,Truck,On Time,16.97
+981,167,294,5500,Medium,Stormy,Van,On Time,11.66
+982,930,13,5154,Medium,Stormy,Van,Delayed,24.41
+983,553,474,8578,Low,Stormy,Van,On Time,15.39
+984,996,108,6563,Medium,Stormy,Van,On Time,29.5
+985,623,406,2785,Medium,Rainy,Truck,On Time,19.8
+986,243,498,5723,Medium,Clear,Truck,Delayed,6.8
+987,896,48,7471,Medium,Stormy,Truck,On Time,27.52
+988,764,280,4025,High,Rainy,Bike,On Time,21.75
+989,1465,384,3322,Low,Stormy,Bike,Delayed,40.42
+990,1099,294,5443,High,Stormy,Bike,On Time,35.86
+991,222,166,7030,High,Rainy,Van,On Time,13.55
+992,1373,84,758,High,Rainy,Bike,On Time,39.49
+993,375,381,782,Medium,Clear,Van,On Time,11.49
+994,1483,297,2398,Medium,Clear,Bike,On Time,34.99
+995,1191,139,4635,High,Stormy,Van,On Time,39.73
+996,885,184,7129,Low,Stormy,Bike,Delayed,25.98
+997,773,471,3700,Medium,Clear,Bike,On Time,19.85
+998,274,93,5610,Medium,Clear,Truck,On Time,9.07
+999,581,31,7667,Medium,Rainy,Bike,On Time,17.85
+1000,162,468,1112,Low,Clear,Bike,Delayed,4.25
